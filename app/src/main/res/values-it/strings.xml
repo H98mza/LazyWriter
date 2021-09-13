@@ -9,7 +9,7 @@
     <string name="cancel">Annulla</string>
     <string name="deleteMessage">Cancella Messaggio</string>
     <string name="deleteMessageConfirm">Sei sicuro di voler cancellare questo messaggio?</string>
-    <string name="addMessage">Aggiungi messaggi</string>
+    <string name="addMessage">Aggiungi messaggio</string>
     <string name="yourMessagePrompt">Il tuo messaggio (aggiungi #GPS# per includere le tue coordinate):</string>
     <string name="messageAdded">Messaggio aggiunto!</string>
     <string name="noEmptyMessage">Il messaggio non può essere vuoto</string>
